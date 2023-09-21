@@ -1,0 +1,28 @@
+[
+    {
+      "family": "Signika Negative",
+      "fonts": [
+        {
+      
+         "asset": "fonts/SignikaNegativereqular.ttf"
+      
+        }
+      ]
+    },
+    {
+      "family": "Montserrat",
+      "fonts": [
+        {
+          "asset": "fonts/Montserrat-Reqular.ttf"
+        }
+      ]
+    },
+  {
+      "family": "Rubik Moonrocks ",
+      "fonts": [
+        {
+          "asset": "fonts/RubikMoonrocks-Regular.ttf"
+        }
+      ]
+    }
+  ]
